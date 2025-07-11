@@ -1,0 +1,7 @@
+version: '3'
+services:
+  game:
+    build: ./app
+    container_name: python-cli-game
+    stdin_open: true
+    tty: true
