@@ -9,4 +9,6 @@ This is a simple Python-based command-line game (guess the number) built for Dev
 ## 🧪 How to Run
 
 ```bash
-docker run -it sainathmitalakar/python-cli-game
+docker run -it sainathmitalakar/python-cli-game 
+
+Thank You
